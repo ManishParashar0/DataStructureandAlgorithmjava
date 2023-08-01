@@ -19,6 +19,7 @@ public class StringPractice1 {
 			}
 		}
 		System.out.println(count + "total duplicate");
+		// this is string work
 
 	}
 

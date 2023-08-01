@@ -4,6 +4,7 @@ public class StringReverseRecursion {
 	public static String reverseString(String str) {
 		// Base case: If the string is empty or has only one character, return the
 		// string itself.
+
 		if (str == null || str.length() <= 1) {
 			return str;
 		}
