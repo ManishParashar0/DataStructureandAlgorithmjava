@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class StringPractice2 {
 	public static boolean areAnagrams(String str1, String str2) {
-		// Remove spaces and convert to lowercase
+		
 		String s1 = str1.replaceAll("\\s", "").toLowerCase();
 		String s2 = str2.replaceAll("\\s", "").toLowerCase();
 
