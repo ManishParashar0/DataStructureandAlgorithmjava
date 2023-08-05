@@ -1,5 +1,7 @@
 package String;
 
+import java.util.Scanner;
+
 public class StringReverseRecursion {
 	public static String reverseString(String str) {
 		// Base case: If the string is empty or has only one character, return the
