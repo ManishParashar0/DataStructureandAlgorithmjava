@@ -13,7 +13,7 @@ public class leftangle {
 				if (a == 5 || b == 1 || b == a) {
 					System.out.print("# ");
 				} else {
-					System.out.print("  ");
+					System.out.print("  " + " ");
 				}
 			}
 			System.out.println();
