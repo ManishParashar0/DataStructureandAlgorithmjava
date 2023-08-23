@@ -7,7 +7,15 @@ public class HomePattern {
 		drawHome(height);
 	}
 
+	/*
+	 * interview practice public HomePattern() { // TODO Auto-generated constructor
+	 * stub }
+	 * 
+	 * public HomePattern(int a) { // TODO Auto-generated constructor stub }
+	 */
 	public static void drawHome(int height) {
+
+		// HomePattern homePattern = new HomePattern();
 		int width = height * 2;
 
 		// Draw roof

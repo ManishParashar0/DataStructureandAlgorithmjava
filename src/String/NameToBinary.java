@@ -8,7 +8,6 @@ public class NameToBinary {
 		System.out.print("Enter a name: ");
 		String name = scanner.nextLine();
 		scanner.close();
-
 		String binaryName = nameToBinary(name);
 		System.out.println("Binary code for '" + name + "': " + binaryName);
 	}
