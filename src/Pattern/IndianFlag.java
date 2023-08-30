@@ -8,7 +8,7 @@ public class IndianFlag {
 		int height = 26;
 		int width = 40;
 		int temp = 3;
-
+// Safwan
 		// we use only one nested loop to print all the parts of the flag
 		for (int m = 1; m <= height; m++) {
 			for (int n = 1; n <= width; n++) {
